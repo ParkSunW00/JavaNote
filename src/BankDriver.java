@@ -26,7 +26,7 @@ public class BankDriver {
         a2.deposit(30000);
         a2.withdraw(170000);
         a2.deposit(620000);
-        a2.withdraw(890000);
+        a2.withdraw(870000);
 
     }
 }
