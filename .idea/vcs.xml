@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/JavaNote" vcs="Git" />
+>>>>>>> df7e962791ab7b9b90e835668bebb6aabb6ac2dc
   </component>
 </project>
