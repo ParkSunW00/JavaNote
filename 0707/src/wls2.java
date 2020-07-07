@@ -2,14 +2,12 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
 
 public class wls2 extends JFrame implements ActionListener {
     wls2() {
         this.setTitle("20402");
         this.setLayout(new GridLayout(4, 3, 5, 5));
-        this.setSize(300, 300);
+        this.setSize(500, 500);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setVisible(true);
 
