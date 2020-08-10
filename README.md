@@ -1,2 +1,2 @@
 # JavaNote
-Java Study
+Java Study Example
